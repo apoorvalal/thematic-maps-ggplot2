@@ -1,0 +1,10 @@
+*.csv
+*.dta
+*.ipynb_checkpoints
+*.log
+*.bbl
+*.bcf
+*.fls
+*.bcf
+*.run.xml
+*_cache/*
